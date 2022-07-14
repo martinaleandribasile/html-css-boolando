@@ -141,12 +141,6 @@ header::after {
 
 }
 
-.discountpos {
-    position: absolute;
-    bottom: 20%;
-    left: 0;
-}
-
 .sostenibilita {
     padding: 0 5px;
     width: 80px;
@@ -157,21 +151,6 @@ header::after {
     text-align: center;
     vertical-align: middle;
     line-height: 20px;
-}
-
-.sosten {
-    padding: 0 5px;
-    width: 80px;
-    height: 20px;
-    background-color: green;
-    color: white;
-    font-size: small;
-    text-align: center;
-    vertical-align: middle;
-    line-height: 20px;
-    position: absolute;
-    bottom: 20%;
-    left: 0%;
 }
 
 
@@ -235,6 +214,7 @@ header::after {
 .positiontarget {
     position: absolute;
     bottom: 20%;
+    left: 0;
 }
 
 .right>a {
